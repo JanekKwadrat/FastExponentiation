@@ -1,0 +1,12 @@
+https://cses.fi/problemset/task/1095 (Exponentiation)
+https://cses.fi/problemset/task/1722 (Fibonacci Numbers)
+https://szkopul.edu.pl/problemset/problem/YDC_o8D-TCaaYvtOS4qTPSG-/site/?key=statement (Czy umiesz potęgować? (pot))
+https://cses.fi/problemset/task/2413 (Counting Towers)
+https://codeforces.com/contest/166/problem/E (E. Tetrahedron)
+https://cses.fi/problemset/task/2209 (Counting Necklaces)
+https://szkopul.edu.pl/problemset/problem/r9x5DEv27LmqaC7UVOpeJJA7/site/?key=statement (Potęga (pot))
+https://cses.fi/problemset/task/1096 (Throwing Dice)
+
+https://en.wikipedia.org/wiki/Exponentiation_by_squaring (Exponentiation by squaring)
+https://kocurro.com/kodowanie/pdf/name.pdf (Imię kota)
+https://www.youtube.com/watch?v=eGudBNpReLA (OKI #21 - Olimpiada Informatyczna DLA ZAAWANSOWNANYCH - Mnożenie/potęgowanie macierzy)
